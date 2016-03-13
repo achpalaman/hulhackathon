@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_finance"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="Finance" />
+        <item
+            android:id="@+id/nav_sales"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Sales and Marketing" />
+        <item
+            android:id="@+id/nav_supply"
+            android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="Supply Chain" />
+        <item
+            android:id="@+id/nav_complaints"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="Complaints" />
+        <item
+            android:id="@+id/nav_alerts"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="Alerts" />
+    </group>
+
+</menu>
