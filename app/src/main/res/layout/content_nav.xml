@@ -8,7 +8,7 @@
     android:paddingLeft="50dp"
     android:paddingRight="50dp"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.hulhack.quandrum.wireframes.NavActivity"
+    tools:context="com.hulhack.quandrum.wireframes.activities.NavActivity"
     tools:showIn="@layout/app_bar_nav">
 
     <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
